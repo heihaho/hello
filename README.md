@@ -1,5 +1,5 @@
 # vimSettings
-The vim setting inspired from amix
+The vim setting greatly modified from amix vimrc
 
 ## Core Feature
 * A light vimrc with only 7mb in size
